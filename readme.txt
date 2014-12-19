@@ -31,7 +31,7 @@ OTHER FILES:
 'imresizecrop.m' - used as part of GIST code
 'pubfig_attributes.txt' - list of attributes for each image in the PubFig developer dataset
 'rankNewImage.m' - function that calculates ranking score of a new test image using the learning ranking function
-'ranksvm.m' - rankSVM training code (taken from http://olivier.chapelle.cc/primal/primal_svm.m)
+'ranksvm.m' - rankSVM training code (taken from http://olivier.chapelle.cc/primal/ranksvm.m)
 'readData.m' - hack-y function to read data files associated with my tests
 'reconcileAttributes.m' - function to map attributes data extracted from the main list with the actual images saved from PubFig
 'relativeAttributes.m' - MAIN FUNCTION: performs SVM classifications
